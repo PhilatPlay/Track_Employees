@@ -20,7 +20,7 @@ public class ConnectionFactory {
 //            String username = bundle.getString("username");
 //            String password = bundle.getString("password");
             String username = "root";
-            String password = "Honey00!";
+            String password = "XXXXXXXXXX";
             connection = DriverManager.getConnection(url, username, password);
         }
         return connection;
